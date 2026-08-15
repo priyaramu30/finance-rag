@@ -201,6 +201,6 @@ Record a 3-minute video demonstrating:
 
 ## 👨‍💻 Author
 
-Your Name
+Haripriya R
 
 Financial RAG System using GPT-4o, ChromaDB, Streamlit, and LangChain.
