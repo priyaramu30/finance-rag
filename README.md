@@ -183,10 +183,7 @@ Add screenshots here:
 
 Record a 3-minute video demonstrating:
 
-* Upload PDFs
-* Indexing
-* Three sample questions
-* Trap question refusal
+https://youtu.be/puMeTEUV34o ---> Video Guide for my Project
 
 ---
 
