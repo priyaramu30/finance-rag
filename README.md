@@ -183,7 +183,7 @@ Add screenshots here:
 
 Record a 3-minute video demonstrating:
 
-https://youtu.be/puMeTEUV34o ---> Video Guide for my Project
+[https://youtu.be/puMeTEUV34o](https://youtu.be/Yl-kgrneIjI) ---> Video Guide for my Project
 
 ---
 
